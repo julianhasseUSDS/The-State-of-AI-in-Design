@@ -1,0 +1,8 @@
+[Prompt-driven design]
+
+
+Enter: "Prompt-driven Design".
+
+Our industry has spent the last 40 years trying to escape that command interface. From the 1990s through the 2000s, pointing and clicking was the dominant mode of interaction with technology. In the 2010s, Apple made it even simpler by popularizing the simplicity of tapping on a touchscreen.
+And now in 2023, we’ve circled back to a similar form factor in the command bar but with a completely new engagement paradigm: prompts.
+Prompts are commands given via text or voice that tell AI software what to do.

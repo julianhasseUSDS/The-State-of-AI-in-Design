@@ -1,0 +1,9 @@
+[Julian AI voice over]
+
+Why should a designer care about artificial intelligence? After all, what do algorithms and predictions have to do with you and your practice? The answer grows more self-evident by the day. Artificial Intelligence is everywhere and has already transformed our profession. It's going to steamroll right over us unless we jump aboard and start pulling the levers and steering the train in a human, ethical and intentional direction. Here's another reason why you should care: you can do amazing work by tapping the phenomenal powers of nonhuman cognition. One last factor: industry, academia and government alike prize designers with a full understanding of this technology. We have some learning to do. 
+
+We are going to take a journey across three realms: first we'll start by digging on basic AI and Machine Learning terminology. Then we'll move to a non-technical description of prompt-driven design tools and real life examples. 
+
+Finally, we'll conclude with an analysis of the impact of ML upon design practice itself: what we make and how might ML affect what we make. Izzie will share some of her experiences with AI and design while working on Google.  
+
+It is my intention to inspire you to take hold of machine learning tools, carefully but confidently. We should not trust a technology that has no true understanding of human consequences to take the lead. Instead, we human designers and civic tech practitioners have to blaze the path forward ourselves.

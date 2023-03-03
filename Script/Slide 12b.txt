@@ -1,0 +1,11 @@
+[Midjourney prompt]
+
+
+This is what a Midjourney prompt looks like.
+
+You always start by using the /imagine command, followed by the text prompt (description of what to imagine). This will create a grid of 4 images which you can upscale or create variations.
+
+Optionally you can pass parameters (--ar is aspect ratio, --q is quality, and so on and so forth).
+You can also use an existent image as a based, in which case you can pass the image url first.
+
+Now, Let’s see Midjourney in action!

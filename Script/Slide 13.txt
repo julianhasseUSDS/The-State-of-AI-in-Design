@@ -1,0 +1,13 @@
+[who owns the future]
+
+
+Last month, artist Kelly McKernan joined a class-action lawsuit with two other artists, Sarah Andersen and Karla Ortiz, against Midjourney and two other AI imagery generators, Stable Diffusion and DreamUp. All three models make use of laion-5B, a nonprofit, publicly available database that indexes more than five billion images from across the Internet, including the work of many artists. 
+
+The alleged wrongdoing comes down to what I summarize as “the three ‘C’s”: 
+
+1. The artists had not consented to have their copyrighted artwork included in the laion database
+2. They were not compensated for their involvement, even as companies including Midjourney charged for the use of their tools
+3.and their influence was not credited when A.I. images were produced using their work. 
+
+When producing an image, these generators “present something to you as if it’s copyright free,” the claim states, adding that every image a generative tool produces “is an infringing, derivative work.”
+

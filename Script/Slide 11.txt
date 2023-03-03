@@ -1,0 +1,4 @@
+[Midjourney]
+
+
+Midjourney is an independent research lab that produces an artificial intelligence program under the same name that creates images from textual descriptions, similar to OpenAI's DALL-E and Stable Diffusion. Users create artwork with Midjourney using Discord bot commands. There is a beta web-based version available to subscribers.

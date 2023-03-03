@@ -1,0 +1,12 @@
+[Generative AI Tools - CHATGPT]
+
+Generative AI systems fall under the broad category of machine learning, and here’s how one such system —ChatGPT— describes what it can do:
+
+
+ChatGTP is a free chatbot that can generate an answer to almost any question it’s asked. Developed by OpenAI, and released for testing to the general public in November 2022, it’s already considered the best AI chatbot ever. 
+
+And it’s popular too: over a million people signed up to use it in just five days. Lots of fans posted examples of the chatbot producing computer code, college-level essays, poems, and even halfway-decent jokes. Others, among the wide range of people who earn their living by creating content, from advertising copywriters to tenured professors, are quaking in their boots.
+
+[First text-based ML apps]
+ChatGPT may be getting all the headlines now, but it’s not the first text-based machine learning model to make a splash. OpenAI’s GPT-3 and Google’s BERT both launched in recent years to some fanfare.
+

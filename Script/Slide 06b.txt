@@ -1,0 +1,8 @@
+[Machine learning]
+
+
+Traditional programming requires developers to enter explicit logic-based instructions –code– to produce behavior. In contrast, ML empowers the computer to observe and analyze behavior happening in the physical or digital world and then produce code to explain it.
+
+They use data to compute likely outcomes. We can think of these algorithms as “Prediction Machines.”
+But how do this prediction works?
+

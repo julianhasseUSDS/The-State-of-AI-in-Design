@@ -1,0 +1,5 @@
+[Generative AI]
+
+What you see on screen is part of a comic book created in less than 5 minutes.
+The script was created with ChatGPT and the images with Midjourney via specific prompts.
+Since I mentioned a few new tools, let's dive deeper and see them in action.

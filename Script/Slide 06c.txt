@@ -1,0 +1,22 @@
+[Non-technical explanation of deep learning]
+
+The terms deep learning and neural network are used almost interchangeably in AI.
+And even though they're great for machine learning, there's also been a bit of hype and bit of mystique about them.
+
+In order to understand what they are let's use an example from demand prediction.
+
+Let's say you run a website that sells t-shirts, and you want to know, based on how you price the t-shirts, how many units you expect to sell.
+
+You might then create a dataset like this, where the higher the price of the t-shirt, the lower the demand. 
+
+So you might fit a straight line to this data, showing that as the price goes up, the demand goes down.
+
+Now demand can never go below zero, so maybe you say that the demand will flatten out at zero, and beyond a certain point you expect pretty much no one to buy any t-shirts.
+
+It turns out this blue line is maybe the simplest possible neural network.
+You have as input the price, A, and you want it to output the estimated demand, B.
+
+So the way you would draw this as a neural network is that the price will be input to this little round thing there, and this little round thing outputs the estimated demand.
+
+In the terminology of AI, this little round thing here is called a neuron, or sometimes it's called an artificial neuron, and all it does is compute this blue curve that I've drawn here on the left.
+This is maybe the simplest possible neural network with a single artificial neuron, that just inputs the price and outputs the estimated demand.

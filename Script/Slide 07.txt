@@ -1,0 +1,6 @@
+[Machine learning in Action]
+
+
+Through interactive storytelling, Stitch Fix, an apparel retailer based in San Francisco,  visualizes its use of rich data to match clients with items of clothes, shoes, and accessories. The company, which has a team of 70+ data scientists, combines algorithmic decision making with human skills––intuition, understanding context, and building relationships––to make shopping personal.
+
+Notice the way you can order clothes based on specific keywords that you enter in the website's prompt.

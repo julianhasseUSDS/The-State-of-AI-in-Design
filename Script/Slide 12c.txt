@@ -1,0 +1,22 @@
+[Midjourney examples]
+
+
+Let's say I'm working on the layout of an article about President Kennedy and need to include an image to illustrate the author's point of view.
+
+[next]
+
+First I try "President Kennedy realistic Pixar character  -- ar 1:1", and I get these four images. 
+
+[next]
+
+Perhaps I could leverage a "keyword" that I saw on the article, where the author mentioned The Simpsons as a cultural reference.
+
+[next]
+
+Or even better, I could relate to the keyword "fragmentation" and apply cubism style to the image.  
+
+[next]
+
+Finally I upscale the image I like and place it on my layout.
+
+But perhaps there is a simpler way of designing? 

@@ -1,0 +1,5 @@
+[Machine learning]
+
+The rise of AI has been largely driven by one tool in AI called machine learning.
+Here's a definition: " The Field of study that gives computers the ability to learn without being explicitly programmed".
+

@@ -1,0 +1,7 @@
+[Structured - Unstructured Data]
+
+
+As we move through our lives, we leave behind a garble of unstructured data––I.e., data not organized into ordered sets like spreadsheets or tables. 
+
+Today, computers scan the world more like humans. When I enter a room, I don’t learn about the room via a spreadsheet. Instead, I use my senses. I analyze images, sound, space, and movement. I take this information and make decisions based on what I find. 
+

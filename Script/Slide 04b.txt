@@ -1,0 +1,7 @@
+[Supervised learning]
+
+The most commonly used type of machine learning is a type of AI that learns A to B, or input to output mappings.
+
+[Supervised learning]
+
+This is called supervised learning. Let's see some examples. 

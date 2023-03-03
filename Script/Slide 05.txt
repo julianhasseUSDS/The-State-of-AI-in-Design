@@ -1,0 +1,21 @@
+[Supervised learning]
+
+If the input is an email and the output is email spam or not –zero or one–, then this is the core piece of AI used to build a spam filter. 
+
+Or if the input is an audio clip, and the AI's job is to output the text transcript, then this is speech recognition.
+
+More examples, if you want to input English and have it output a different language, Spanish, Chinese or something else, then this is machine translation.
+
+Or the most lucrative form of supervised learning, of this type of machine learning maybe be online advertising, where all the large online ad platforms have a piece of AI that inputs some information about an ad, and some information about you, and tries to figure out, will you click on this ad or not? 
+
+Or if you want to build a self-driving car, one of the key pieces of AI is in the AI that takes as input an image, and some information from their radar, or from other sensors, and output the position of other cars, so your self-driving car can avoid the other cars. 
+
+Or in manufacturing, where you take as input a picture of something you've just manufactured, such as a picture of a product coming off the assembly line, and you want to output, is there a scratch, or is there a dent, or some other defects on this thing you've just manufactured?
+
+This set of AI is called supervised learning, just learns input to output, or A to B mappings.
+
+
+On one hand, input to output, A to B it seems quite limiting. But when you find
+a right application scenario, this can be incredibly valuable.
+
+What enables this learning to work really well? It is data. 

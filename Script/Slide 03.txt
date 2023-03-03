@@ -1,0 +1,8 @@
+[When will we get there?]
+
+Hardware power (how much useful work a computer does per unit time) is commonly measured in terms of floating point operations per second or FLOP/s. Larger models run on hardware that performs more FLOP/s. Researchers use floating point operations or FLOP to measure total computation; a “FLOP” is equivalent to one addition, subtraction, multiplication, or division of two decimal numbers. Training a larger model generally takes more total FLOP.
+
+
+In "The Lifetime Anchor hypothesis", Dr. Ajeya Cotta estimates that a median of "1 times 10 to the 29" FLOP will be required to represent the amount of FLOP done in a human lifetime. Similarly, she estimates a median of "1 times 10 to the 41" FLOP will be required to represent the amount of FLOP done over the course of evolution. 
+
+These numbers allow us to project that we will be able to acquire full AGI by the year 2100.

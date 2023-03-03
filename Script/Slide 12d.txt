@@ -1,0 +1,7 @@
+[the future of design?]
+
+For a long time, I've been extolling the virtues of how a ready-to-use design system can help teams to go from whiteboard sketch to working prototype in a matter of minutes.
+
+This AI tool could take that process down to seconds. Moreover, it lowers the barriers to entry so product managers, marketers and stakeholders can quickly generate new product screens without having to know how to code or use Figma.
+
+(Designers, I can feel you squirming in your seats right now).

@@ -1,0 +1,14 @@
+[Demystifying AI]
+
+Almost all the progress we are seeing in AI today is artificial narrow intelligence.
+These are AIs that do one thing such as a smart speaker, a self-driving car, AI to do web search or AI applications in farming and factories. These types of AI are one-trick ponies but when you find the appropriate trick, this can be incredibly valuable.
+Unfortunately, AI also refers to a second concept of AGI or artificial general intelligence.
+
+They can do anything a human can do or maybe even more things than any human can. This is also known as "super intelligence"), and we are not there yet.
+
+When will we get there?
+
+
+
+
+
